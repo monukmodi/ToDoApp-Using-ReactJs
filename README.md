@@ -5,7 +5,7 @@ By clicking on the notes it will be deleted.
 
 Link to the app: [ToDoApp](https://keep-note-details.herokuapp.com/)
 <img src="src/images/one.png">
-<img src="src/images/two.png">
+<img src="src/images/Two.png">
 
 # To start this project follow below instructions - 
 1. Clone the repo (https://github.com/Monukr14/ToDoApp-Using-ReactJs.git)
